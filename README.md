@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-!(Banner)[https://github.com/Leandro2585/Leandro2585/blob/master/background.svg]
+
+## Leandro Real
+<p align="center">Olá sou Leandro um adolescente apaixonado por programação, nessa minha trajetória já testei diversas técnologias como PHP, C++, C#, C, Java, Dart, Flutter, MySql, etc... mas com tantas opções houve uma em que me identifiquei a Stack constituída por NODE, REACT e REACT NATIVE</p>
+
+<p align="center">
+  <img alt="Banner" src="https://github.com/Leandro2585/Leandro2585/blob/master/background.svg?raw=true" />
+</p>
