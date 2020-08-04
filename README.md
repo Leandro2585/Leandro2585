@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img alt="Banner" src="https://github.com/Leandro2585/Leandro2585/blob/master/background.svg?raw=true" />
 ## Leandro Real
-<p align="justify">Olá sou Leandro um adolescente apaixonado por programação, nessa minha trajetória já testei diversas técnologias como PHP, C++, C#, C, Java, Dart, Flutter, MySql, etc... mas com tantas opções houve uma em que me identifiquei a Stack constituída por NODE, REACT e REACT NATIVE</p>
+<p align="justify">Olá sou Leandro um adolescente apaixonado por programação, nessa minha trajetória já testei diversas técnologias como PHP, C++, C#, Java e Flutter mas com tantas opções houve uma em que me identifiquei a Stack constituída por NODE, REACT e REACT NATIVE</p>
 
-<p align="center">
-  <img alt="Banner" src="https://github.com/Leandro2585/Leandro2585/blob/master/background.svg?raw=true" />
-</p>
+
+ :rocket:  &nbsp; Estou estudando na Etec Bartolomeu Bueno da Silva
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LeandroReal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-r-434b811a5)](https://www.linkedin.com/in/leandro-r-434b811a5/) 
+| 
+[![Gmail](https://img.shields.io/badge/-leo.real2585@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.real2585@gmail.com.com)](mailto:leo.real2585@gmail.com)
