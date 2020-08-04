@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **Leandro2585/Leandro2585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img alt="Banner" src="https://github.com/Leandro2585/Leandro2585/blob/master/background.svg?raw=true" />
-## Leandro Real
-<p align="justify">Olá sou Leandro um adolescente apaixonado por programação, nessa minha trajetória já testei diversas técnologias como PHP, C++, C#, Java e Flutter mas com tantas opções houve uma em que me identifiquei a Stack constituída por NODE, REACT e REACT NATIVE</p>
+## Leandro Real Vieira
+<p align="justify">Olá sou Leandro um adolescente apaixonado por programação, nessa minha trajetória já testei diversas técnologias como PHP, C++, C#, Java e Flutter mas com tantas opções houve uma em que me identifiquei a stack constituída por NODE, REACT e REACT NATIVE</p>
 
 
  :rocket:  &nbsp; Estou estudando na Etec Bartolomeu Bueno da Silva
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+<br/>
+<p align="left">
+<img src="https://img.shields.io/static/v1?label=javascript&message=language&color=yellow&style=for-the-badge&logo=JAVASCRIPT"/><br/>
+<img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>
+ </p>
+<br/>
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LeandroReal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-r-434b811a5)](https://www.linkedin.com/in/leandro-r-434b811a5/) 
-| 
 [![Gmail](https://img.shields.io/badge/-leo.real2585@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.real2585@gmail.com.com)](mailto:leo.real2585@gmail.com)
