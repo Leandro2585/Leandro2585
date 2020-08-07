@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img alt="Banner" src="https://github.com/Leandro2585/Leandro2585/blob/master/background.svg?raw=true" />
-## Leandro Real Vieira
+<h1> Leandro Real Vieira</h1>
 <p align="justify">Olá sou Leandro um adolescente apaixonado por programação, nessa minha trajetória já testei diversas técnologias como PHP, C++, C#, Java e Flutter mas com tantas opções houve uma em que me identifiquei a stack constituída por NODE, REACT e REACT NATIVE</p>
 
 
