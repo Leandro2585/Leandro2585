@@ -8,13 +8,13 @@ Desde 2018 venho vivendo e respirando o desenvolvimento web e criando interfaces
 ### No que estou focado 👨‍💻
 
 Atualmente melhorando minhas skills de desenvolvedor com:<br/>
-<div width="80%">
+<div width="100%">
 <img src="https://img.shields.io/badge/-Node-50fa7b?style=for-the-badge&logo=node.js&logoColor=black&link=https://github.com/solrachix"/>
 <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=black&link=https://github.com/solrachix"/>
 <img src="https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=#282a36&link=https://github.com/solrachix"/><br/>
 </div>
 
-<div width="80%">
+<div width="100%">
 <img src="https://img.shields.io/badge/-Typescript-5659EB?style=for-the-badge&logo=typescript&logoColor=#282a36&link=https://github.com/solrachix"/>
 <img src="https://img.shields.io/badge/-Javascript-5659EB?style=for-the-badge&logo=javascript&logoColor=#282a36&link=https://github.com/solrachix"/>
 <img src="https://img.shields.io/badge/-MySQL-5659EB?style=for-the-badge&logo=mysql&logoColor=black&link=https://github.com/solrachix"/><br/>
