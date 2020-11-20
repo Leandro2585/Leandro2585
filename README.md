@@ -17,7 +17,7 @@ Atualmente melhorando minhas skills de desenvolvedor com:<br/>
 <div width="80%">
 <img src="https://img.shields.io/badge/-Typescript-5659EB?style=for-the-badge&logo=typescript&logoColor=#282a36&link=https://github.com/solrachix"/>
 <img src="https://img.shields.io/badge/-Javascript-5659EB?style=for-the-badge&logo=javascript&logoColor=#282a36&link=https://github.com/solrachix"/>
-<img src="https://img.shields.io/badge/-MySQL-5659EB?style=for-the-badge&logo=mysql&logoColor=white&link=https://github.com/solrachix"/><br/>
+<img src="https://img.shields.io/badge/-MySQL-5659EB?style=for-the-badge&logo=mysql&logoColor=black&link=https://github.com/solrachix"/><br/>
 </div>
 
 ### Entre em contato comigo 🌎
