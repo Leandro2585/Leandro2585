@@ -6,9 +6,16 @@ Desde 2018 venho vivendo e respirando o desenvolvimento web e criando interfaces
 
 ### No que estou focado 👨‍💻
 
-Atualmente melhorando minhas habilidades de Typescript com:
-- <img src="https://img.shields.io/badge/-Node-5659EB?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/Leandro2585"/>: Express, TypeORM, Knex, etc...<br/>
-- [React]: NextJS, React Native, ReactJS.<br />
+Atualmente melhorando minhas habilidades de Typescript com:<br/>
+<img src="https://img.shields.io/badge/-Node-50fa7b?style=for-the-badge&logo=node.js&logoColor=#282a36&link=https://github.com/solrachix"/>
+
+<img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=#282a36&link=https://github.com/solrachix"/>
+
+<img src="https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=#282a36&link=https://github.com/solrachix"/><br/>
+
+<img src="https://img.shields.io/badge/-Typescript-5659EB?style=for-the-badge&logo=typescript&logoColor=#282a36&link=https://github.com/solrachix"/>
+
+<img src="https://img.shields.io/badge/-Javascript-5659EB?style=for-the-badge&logo=javascript&logoColor=#282a36&link=https://github.com/solrachix"/><br/>
 
 ### Entre em contato comigo 🌎
 
