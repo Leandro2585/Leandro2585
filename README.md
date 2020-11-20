@@ -1,26 +1,17 @@
-### Hello World 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Leandro Real](https://github.com/Leandro2585)!
 
-<!--
-**Leandro2585/Leandro2585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu trabalho como desenvolvedor Fullstack com habilidades de design UI/UX . Eu sou de São Paulo, Brazil.
 
-Here are some ideas to get you started:
+Desde 2018 venho vivendo e respirando o desenvolvimento web e criando interfaces modernas e de fácil utilização. Tive a oportunidade de mergulhar em muitos trabalhos e projetos diferentes, ajudando a tornar este mundo um pouco melhor através do código. ✨😍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img alt="Banner" src="https://github.com/Leandro2585/Leandro2585/blob/master/background.svg?raw=true" />
-<h1> Leandro Real Vieira</h1>
-<p align="justify">Olá sou Leandro um adolescente apaixonado por programação, nessa minha trajetória já testei diversas técnologias, mas com tantas opções houve uma em que me identifiquei a stack constituída por NODE, REACT e REACT NATIVE todas orbitando a linguagem JAVASCRIPT e TYPESCRIPT.</p>
+### No que estou focado 👨‍💻
 
- :rocket:  &nbsp; Estou estudando na Etec Bartolomeu Bueno da Silva
-<br/>
+Atualmente melhorando minhas habilidades de Typescript com:
+- <img src="https://img.shields.io/badge/-Node-5659EB?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/Leandro2585"/>: Express, TypeORM, Knex, etc...<br/>
+- [React]: NextJS, React Native, ReactJS.<br />
 
- <br/> Entre em contato comigo:<br/> [![Linkedin Badge](https://img.shields.io/badge/-LeandroReal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-r-434b811a5/)](https://www.linkedin.com/in/leandro-r-434b811a5/) 
-|
+### Entre em contato comigo 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/leandro-r-434b811a5/).
+
 [![Gmail Badge](https://img.shields.io/badge/-leo.real2585@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.real2585@gmail.com)](mailto:leo.real2585@gmail.com)
