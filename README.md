@@ -1,7 +1,7 @@
 ## <img src="./profile-banner.svg" width="100%">
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World, Eu sou [Leandro Real](https://github.com/Leandro2585)!
 
-Eu trabalho como desenvolvedor Fullstack com habilidades básicas de design UI/UX . Eu sou de São Paulo, Brazil.
+Eu atuo como desenvolvedor Fullstack com habilidades básicas de design UI/UX, e sou de São Paulo, Brazil.
 
 Desde 2018 venho vivendo e respirando o desenvolvimento web e criando interfaces modernas e de fácil utilização. Tive a oportunidade de mergulhar em muitos trabalhos e projetos diferentes, ajudando a tornar este mundo um pouco melhor através do código. ✨😍
 
