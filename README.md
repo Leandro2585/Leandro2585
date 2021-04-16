@@ -26,8 +26,11 @@ Habilidades
 
 > **Back-End:**
 
-> - Typescript (Domain Driven Design, Test Driven Development e princípios SOLID)
+> - Typescript (Domain Driven Design, Test Driven Development e princípios SOLID, Design Patterns)
 > - NodeJS
+> - C++
+> - C#
+> - C
 > - PHP
 
 -------------
