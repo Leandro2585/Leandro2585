@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/leandro-r-434b811a5/)
 [![Gmail Badge](https://img.shields.io/badge/-leo.real2585@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.real2585@gmail.com)](mailto:leo.real2585@gmail.com)
 
-Programador Full-Stack com conhecimento em várias linguagens, desde 2018 venho vivendo e respirando o desenvolvimento web e criando interfaces modernas e de fácil utilização. Tive a oportunidade de mergulhar em muitos trabalhos e projetos diferentes, ajudando a tornar este mundo um pouco melhor através do código.
+Programador Full-Stack com conhecimento em várias linguagens, desde 2018 venho vivendo e respirando o desenvolvimento web e criando interfaces modernas e de fácil utilização. Tive a oportunidade de mergulhar em muitos trabalhos e projetos diferentes evoluindo constantemente em termos técnicos.
 
 ## <img src="./profile-banner.svg" width="100%">
 
