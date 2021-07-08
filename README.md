@@ -47,7 +47,7 @@ Programador Full-Stack com conhecimento em várias linguagens, desde 2018 venho 
 > - TDD:  Test Driven Development(Desenvolvimento baseado em testes unitários, de integração, etc...)
 > - SOLID: Princípios da programação orientada a objetos
 > - Design Patterns: Factories, Adapters, Proxy, Decorators, Composite, Dependency Injection, Builder
-> > - Git Flow: Controle de versionamento de código
+> - Git Flow: Controle de versionamento de código
 Atualmente melhorando minhas skills de desenvolvedor com:<br/>
 <div width="100%">
 <img src="https://img.shields.io/badge/-Node-30D84a?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/solrachix"/>
