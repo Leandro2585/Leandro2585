@@ -10,23 +10,20 @@ Programador Full-Stack com conhecimento em várias linguagens, desde 2018 venho 
 
 ----------
 
-Habilidades
--------------
-
-#### <i class="icon-pencil"></i> Segue minhas habilidades como Desenvolvedor.
-
+<!-- #### <i class="icon-pencil"></i> Segue minhas habilidades como Desenvolvedor. -->
+### Hard Skills💻
 > **Front-End:**
 
 > - HTML5, CSS3 (SASS/LESS)
 > - JavaScript (Design Patterns, ES6, ES7 e ES8)
 > - Técnicas de Responsivo
 > - ReactJS
-> - Git (Controle de Versionamento)
 -------------
 
 > **Back-End:**
 
-> - Typescript (Domain Driven Design, Test Driven Development, princípios SOLID e Design Patterns)
+> - Typescript
+> - Javascript
 > - NodeJS
 > - PHP
 
@@ -38,9 +35,19 @@ Habilidades
 > - Desenvolvendo aplicações leves, com grande velocidade, dinamismo e interatividade, resgatando dados do banco ou API externas.
 
 -------------
-
-### Hard Skills💻
-
+> **Banco de dados:**
+> - MySQL
+> - MongoDB
+> - PostgreSQL
+> - Redis
+> 
+-------------
+> **Arquitetura de projeto, metodologias e Design Patterns**
+> - DDD: Domain Driven Design(Desenvolvimento orientado pelo domínio)
+> - TDD:  Test Driven Development(Desenvolvimento baseado em testes unitários, de integração, etc...)
+> - SOLID: Princípios da programação orientada a objetos
+> - Design Patterns: Factories, Adapters, Proxy, Decorators, Composite, Dependency Injection, Builder
+> > - Git Flow: Controle de versionamento de código
 Atualmente melhorando minhas skills de desenvolvedor com:<br/>
 <div width="100%">
 <img src="https://img.shields.io/badge/-Node-30D84a?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/solrachix"/>
