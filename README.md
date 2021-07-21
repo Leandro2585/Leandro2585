@@ -28,35 +28,29 @@ Programador Full-Stack com conhecimento em várias linguagens, desde 2018 venho 
 > - JavaScript (Design Patterns, ES6, ES7 e ES8)
 > - Técnicas de Responsivo
 > - ReactJS
--------------
 
 > **Back-End:**
 
 > - Typescript
 > - Javascript
 > - NodeJS
-> - PHP
-
--------------
 
 > **Aplicativos Mobile:**
 
 > - React Native
 > - Desenvolvendo aplicações leves, com grande velocidade, dinamismo e interatividade, resgatando dados do banco ou API externas.
 
--------------
 > **Banco de dados:**
 > - MySQL
 > - MongoDB
 > - PostgreSQL
 > - Redis
-> 
--------------
+
 > **Arquitetura de projeto, metodologias e Design Patterns**
 > - DDD: Domain Driven Design(Desenvolvimento orientado pelo domínio)
 > - TDD:  Test Driven Development(Desenvolvimento baseado em testes unitários, de integração, etc...)
 > - SOLID: Princípios da programação orientada a objetos
 > - Design Patterns: Factories, Adapters, Proxy, Decorators, Composite, Dependency Injection, Builder
 > - Git Flow: Controle de versionamento de código
--------------
+
 
