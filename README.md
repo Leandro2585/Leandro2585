@@ -25,8 +25,8 @@ Programador Full-Stack com conhecimento em várias linguagens, desde 2018 venho 
 > **Front-End:**
 
 > - HTML5, CSS3 (SASS/LESS)
-> - JavaScript (Design Patterns, ES6, ES7 e ES8)
-> - Técnicas de Responsivo
+> - JavaScript (ES6, ES7 e ES8)
+> - Técnicas de Responsividade
 > - ReactJS
 
 > **Back-End:**
