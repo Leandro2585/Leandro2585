@@ -53,6 +53,9 @@ Programador Full-Stack com conhecimento em várias linguagens, desde 2018 venho 
 > **Dev Ops:**
 > - Docker
 > - Deploy com Digital Ocean
+> - Deploy na Netlify
+> - Deploy na Vercel
+> - Deploy com Heroku
 > - Amazon SES(Simple Email Service)
 
 > **Documentação**
