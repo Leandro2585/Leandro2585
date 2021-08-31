@@ -24,21 +24,25 @@ Programador Full-Stack com conhecimento em várias linguagens, desde 2018 venho 
 ### Hard Skills💻
 > **Front-End:**
 
-> - HTML5, CSS3 (SASS/LESS)
 > - JavaScript (ES6, ES7 e ES8)
-> - Técnicas de Responsividade
 > - ReactJS
+> - Testes com Jest e Cypres
+> - Webpack
+> - Recoil
+> - HTML5, CSS3 (SASS/LESS)
 
 > **Back-End:**
 
 > - Typescript
 > - Javascript
 > - NodeJS
+> - Testes com Jest
+> - GraphQL
 
 > **Aplicativos Mobile:**
 
+> - Expo
 > - React Native
-> - Desenvolvendo aplicações leves, com grande velocidade, dinamismo e interatividade, resgatando dados do banco ou API externas.
 
 > **Banco de dados:**
 > - MySQL
@@ -46,7 +50,17 @@ Programador Full-Stack com conhecimento em várias linguagens, desde 2018 venho 
 > - PostgreSQL
 > - Redis
 
+> **Dev Ops:**
+> - Docker
+> - Deploy com Digital Ocean
+> - Amazon SES(Simple Email Service)
+
+> **Documentação**
+> - Swagger
+
 > **Arquitetura de projeto, metodologias e Design Patterns**
+
+> - CI/CD: Continuous Integration, Continuous Delivery
 > - DDD: Domain Driven Design(Desenvolvimento orientado pelo domínio)
 > - TDD:  Test Driven Development(Desenvolvimento baseado em testes unitários, de integração, etc...)
 > - SOLID: Princípios da programação orientada a objetos
