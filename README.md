@@ -21,7 +21,7 @@ Programador Full-Stack com conhecimento em várias linguagens, desde 2018 venho 
 
 | 💻 Frontend | 🖥️ Backend | 📱 Mobile | 🗄️ Database | ☁️ DevOps |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|JavaScript (ES6, ES7 e ES8) | Typescript | Expo | Postgres | Docker
+| NextJS | Typescript | Expo | Postgres | Docker
 | ReactJS | Javascript | React Native | MySQL | Digital Ocean|
 | Jest e Cypres | NodeJS | React Navigation | MongoDB | Netlify |
 | Webpack | Jest | Jest e Testing Library | Redis | Heroku |
