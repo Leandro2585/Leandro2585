@@ -19,14 +19,21 @@ Programador Full-Stack com conhecimento em várias linguagens, desde 2018 venho 
 <img src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&link=https://github.com/solrachix"/><br/>
 </div>
 
-| 💻 Frontend | 🖥️ Backend | 📱 Mobile | 🗄️ Database | ☁️ DevOps |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| NextJS | Typescript | Expo | Postgres | Docker
-| ReactJS | Javascript | React Native | MySQL | Digital Ocean|
-| Jest e Cypres | NodeJS | React Navigation | MongoDB | Netlify |
-| Webpack | Jest | Jest e Testing Library | Redis | Heroku |
-| Recoil | GraphQL | Gesture Handler | SQLite | Vercel |
-
+| 💻 Frontend | 🖥️ Backend | 📱 Mobile | 
+| ------------- | ------------- | ------------- |
+| NextJS | Typescript | Expo |
+| ReactJS | Javascript | React Native | 
+| Jest e Cypres | NodeJS | React Navigation | 
+| Webpack | Jest | Jest e Testing Library | 
+| Recoil | GraphQL | Gesture Handler | 
+------------------------
+| 🗄️ Database | ☁️ DevOps |
+| ------------- | ------------- |
+|  Postgres | Docker |
+| SQLite | Vercel |
+| MongoDB | Netlify |
+| Redis | Heroku |
+| MySQL | Digital Ocean |
 ### Arquiteturas de projeto, metodologias e Design Patterns
 
 - CI/CD: Continuous Integration, Continuous Delivery
