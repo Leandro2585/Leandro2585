@@ -49,13 +49,11 @@ Passionate about solving problems and changing people's lives through lines of c
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
-### Arquiteturas de projeto, metodologias e Design Patterns
+### Project architectures, methodologies and Design Patterns
 
 - CI/CD: Continuous Integration, Continuous Delivery
-- DDD: Domain Driven Design(Desenvolvimento orientado pelo domínio)
-- TDD:  Test Driven Development(Desenvolvimento baseado em testes unitários, de integração, etc...)
-- SOLID: Princípios da programação orientada a objetos
-- Design Patterns: Factories, Adapters, Proxy, Decorators, Composite, Dependency Injection, Builder, Template Method
-- Git Flow: Controle de versionamento de código
-
-
+- DDD: Domain Driven Design
+- TDD:  Test Driven Development
+- SOLID: Principles of Object-Oriented Programming
+- Design Patterns: Factories, Adapters, Proxy, Decorators, Composite, Dependency Injection, Fluent Builder, Template Method
+- Git Flow: Code versioning control
