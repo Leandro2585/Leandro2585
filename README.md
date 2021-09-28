@@ -11,6 +11,7 @@ Passionate about solving problems and changing people's lives through lines of c
 </p>
 
 ![Leandro Github stats](https://github-readme-stats.vercel.app/api?username=Leandro2585&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro2585&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=141321)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hard Skills💻
 
