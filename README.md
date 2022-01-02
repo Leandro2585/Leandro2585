@@ -33,5 +33,5 @@ Passionate about solving problems and changing people's lives through lines of c
 - DDD: Domain Driven Design
 - TDD:  Test Driven Development
 - SOLID: Principles of Object-Oriented Programming
-- Design Patterns: Factories, Adapters, Proxy, Decorators, Composite, Dependency Injection, Fluent Builder, Template Method, Chain of Responsability, Singleton, Command Pattern
+- Design Patterns: Factories, Adapters, Proxy, Decorators, Composite, Dependency Injection, Fluent Builder, Template Method, Chain of Responsability, Singleton, Command Pattern and Strategy Pattern
 - Git Flow: Code versioning control
