@@ -32,7 +32,7 @@ Passionate about solving problems and changing people's lives through lines of c
     src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
     min-width="200px"
     max-width="200px"
-    width="400px"
+    width="300px"
     align="right"
     alt="Computador iuriCode"
   />
