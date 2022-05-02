@@ -10,6 +10,16 @@ Passionate about solving problems and changing people's lives through lines of c
 <i>"Being a developer is a journey where the next stop is the solution to a problem."</i>
 </p>
 
+<img
+    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+    min-width="400px"
+    max-width="400px"
+    width="400px"
+    align="right"
+    alt="Computador iuriCode"
+  />
+
+
 <!-- ![Leandro Github stats](https://github-readme-stats.vercel.app/api?username=Leandro2585&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro2585&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=141321)](https://github.com/anuraghazra/github-readme-stats) -->
 
