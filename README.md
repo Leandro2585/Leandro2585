@@ -20,7 +20,13 @@ Passionate about solving problems and changing people's lives through lines of c
 <img src="https://img.shields.io/badge/-Node-30D84a?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/solrachix"/>
 <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white&link=https://github.com/solrachix"/>
 <img src="https://img.shields.io/badge/-React Native-912CEE?style=for-the-badge&logo=react&logoColor=white&link=https://github.com/solrachix"/>
-<img src="https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=#282a36&link=https://github.com/solrachix"/><br/>
+<img src="https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=#282a36&link=https://github.com/solrachix"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+
+<br/>
 </div>
 <!-- <a href="https://www.typescriptlang.org/" target="_blank"> <img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
