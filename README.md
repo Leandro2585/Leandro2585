@@ -19,7 +19,8 @@ Passionate about solving problems and changing people's lives through lines of c
 <div width="100%">
 <img src="https://img.shields.io/badge/-Node-30D84a?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/solrachix"/>
 <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white&link=https://github.com/solrachix"/>
-<img src="https://img.shields.io/badge/-React Native-912CEE?style=for-the-badge&logo=react&logoColor=white&link=https://github.com/solrachix"/><br/>
+<img src="https://img.shields.io/badge/-React Native-912CEE?style=for-the-badge&logo=react&logoColor=white&link=https://github.com/solrachix"/>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=#282a36&link=https://github.com/solrachix"/>
 <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/><br/>
