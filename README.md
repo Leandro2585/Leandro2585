@@ -50,6 +50,7 @@ Passionate about solving problems and changing people's lives through lines of c
 - CI/CD: Continuous Integration, Continuous Delivery
 - DDD: Domain Driven Design
 - TDD:  Test Driven Development
+- RPA: Robotic Process Automation
 - SOLID: Principles of Object-Oriented Programming
 - Design Patterns: Factories, Adapters, Proxy, Decorators, Composite, Dependency Injection, Fluent Builder, Template Method, Chain of Responsability, Singleton, Command Pattern and Strategy Pattern
 - Git Flow: Code versioning control
